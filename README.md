@@ -1,0 +1,1 @@
+# braininsight redirect setup
