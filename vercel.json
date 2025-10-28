@@ -5,7 +5,7 @@
       "destination": "https://braininsight.inblog.io"
     },
     {
-      "source": "//:path*",
+      "source": "/:path*",
       "destination": "https://braininsight.inblog.io/:path*"
     },
     {
