@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://braininsight.inblog.io"
+    },
+    {
+      "source": "//:path*",
+      "destination": "https://braininsight.inblog.io/:path*"
+    },
+    {
+      "source": "/robots.txt",
+      "destination": "https://braininsight.inblog.io/robots.txt"
+    }
+  ]
+}
